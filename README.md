@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm VISSHWA P M</h1>
 <h3 align="center">Developing Interacting websites and applications and Solving Problems to level up the world of technology</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=visshwa96&label=Profile%20views&color=0e75b6&style=flat" alt="visshwa96" /> </p>
+
+- 🔭 I’m currently working on **Custom AI By Adding Resources**
+
+- 📫 How to reach me **visshwapm@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/15RlsSodILaJZDC-gQYrttAVbcmEAWTFM/view?usp=drivesdk](https://drive.google.com/file/d/15RlsSodILaJZDC-gQYrttAVbcmEAWTFM/view?usp=drivesdk)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/visshwapm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="visshwapm" height="30" width="40" /></a>
