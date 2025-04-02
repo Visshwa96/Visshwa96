@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **visshwapm@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/15RlsSodILaJZDC-gQYrttAVbcmEAWTFM/view?usp=drivesdk](https://drive.google.com/file/d/1pQQih2BJKodT6UkP_Xt2Pj-P452vL5n0/view?usp=sharing))
+- 📄 Know about my experiences [My Resume]((https://drive.google.com/file/d/1pQQih2BJKodT6UkP_Xt2Pj-P452vL5n0/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
